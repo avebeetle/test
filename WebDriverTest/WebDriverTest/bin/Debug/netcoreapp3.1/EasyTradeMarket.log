@@ -1,0 +1,20 @@
+2022-02-20 03:21:35.764 +03:00 [INF] Start test
+2022-02-20 03:21:42.603 +03:00 [INF] Login button clicked
+2022-02-20 03:21:43.268 +03:00 [INF] Email entered
+2022-02-20 03:21:43.367 +03:00 [INF] Password entered
+2022-02-20 03:21:43.432 +03:00 [INF] Login confirmed
+2022-02-20 03:21:52.016 +03:00 [INF] Pop up windows closed
+2022-02-20 03:21:52.345 +03:00 [INF] Bitcoin is chosen as trade target
+2022-02-20 03:21:55.108 +03:00 [INF] Entered risk sum: 10
+2022-02-20 03:21:55.681 +03:00 [INF] Deal type is chosen as Up
+2022-02-20 03:21:55.802 +03:00 [INF] End test
+2022-02-20 03:21:56.250 +03:00 [INF] Start test
+2022-02-20 03:22:03.328 +03:00 [INF] Login button clicked
+2022-02-20 03:22:03.984 +03:00 [INF] Email entered
+2022-02-20 03:22:04.533 +03:00 [INF] Password entered
+2022-02-20 03:22:04.603 +03:00 [INF] Login confirmed
+2022-02-20 03:22:12.858 +03:00 [INF] Pop up windows closed
+2022-02-20 03:22:16.158 +03:00 [INF] Deal is chosen to be modified
+2022-02-20 03:22:16.951 +03:00 [INF] Entered payout target rate: 38000
+2022-02-20 03:22:17.101 +03:00 [INF] Deal modifying accepted
+2022-02-20 03:22:18.860 +03:00 [INF] End test
